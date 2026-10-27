@@ -1,3 +1,9 @@
 # capturas de revisión y previews (no forman parte del sitio)
-*.png
+preview*.png
+con_foto*.png
+pulido_*.png
+shot_*.png
+slice_*.png
+revision_*.png
+foto_*_preview.jpg
 .DS_Store
